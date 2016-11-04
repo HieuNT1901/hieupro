@@ -1,3 +1,7 @@
 test
 test1
+<<<<<<< HEAD
 test2
+
+test 4
+>>>>>>> nhanh
